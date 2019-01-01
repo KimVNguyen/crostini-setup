@@ -5,3 +5,4 @@ git clone https://github.com/KimVNguyen/crostini-docker.git
 cd crostini-docker
 ./install.sh
 cd ..
+rm -rf crostini-docker
